@@ -1,0 +1,138 @@
+[
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\BasePawn.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\BasePawn.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\HealthComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\HealthComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\Projectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\Projectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\Tank.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\Tank.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanks.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanksGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\ToonTanksPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\Tower.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	},
+	{
+		"file": "D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\Source\\ToonTanks\\Tower.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\HostX64\\x64\\cl.exe",
+			"@D:\\Game Development\\UNREAL ENGINE 5\\EpicGames_BenTristem\\Projects\\ToonTanks\\.vscode\\compileCommands_ToonTanks\\ToonTanks.249.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.1\\Engine\\Source"
+	}
+]
