@@ -6,7 +6,7 @@ Built using **Unreal Engine 5**, this project became my playground for mastering
 
 ---
 
-## 🎮 Game Features
+## Game Features
 
 - **Tank Combat System**  
   Players control a tank with smooth movement and satisfying firing mechanics. Blowing stuff up has never been so fun.
@@ -25,7 +25,7 @@ Built using **Unreal Engine 5**, this project became my playground for mastering
 
 ---
 
-## 🧠 What I Learned
+## What I Learned
 
 - **Core Gameplay Mechanics**  
   Developed using Blueprints and C++, combining visual scripting with hands-on programming.
@@ -41,7 +41,7 @@ Built using **Unreal Engine 5**, this project became my playground for mastering
 
 ---
 
-## 🚀 What's Next?
+## What's Next?
 
 Toon Tanks has been a tremendous stepping stone in my game development journey.  
 I'm excited to bring these skills into more ambitious projects—think **bigger tanks, smarter AI, and even crazier battles**!
